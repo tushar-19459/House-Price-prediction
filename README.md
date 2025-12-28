@@ -41,24 +41,6 @@ cd your-repo-name
 
 > Replace `your-username/your-repo-name` with your actual GitHub repository URL.
 
----
-
-## 🧪 Create & Activate Virtual Environment (Recommended)
-
-### Windows
-```bash
-python -m venv venv
-venv\Scripts\activate
-```
-
-### macOS / Linux
-```bash
-python3 -m venv venv
-source venv/bin/activate
-```
-
----
-
 ## 📦 Install Dependencies from `requirements.txt`
 
 ```bash
@@ -115,12 +97,3 @@ http://localhost:8501
 - Best run inside a virtual environment
 
 ---
-
-## 📄 License
-
-This project is for educational purposes.
-
----
-
-✨ Happy Coding!
-
