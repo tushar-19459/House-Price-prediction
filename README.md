@@ -65,15 +65,6 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-If `requirements.txt` is missing, create one with:
-
-```txt
-streamlit
-pandas
-joblib
-scikit-learn
-```
-
 Then run the install command again.
 
 ---
